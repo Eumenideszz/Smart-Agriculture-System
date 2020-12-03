@@ -1,10 +1,8 @@
-# vue-admin-template
+# Smart-Agriculture-System
 
 > 这是一个集成Vue，Element UI的智慧农业MES系统。
 
 [线上地址](http://ZS-1234567.github.io/vue-admin-template)
-
-[国内访问](https://ZS-1234567.gitee.io/vue-admin-template)
 
 
 
