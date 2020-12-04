@@ -61,7 +61,7 @@ npm run lint -- --fix
 
 ## 赞助作者喝一杯可乐
 
-你也可以通过 扫二维码(https://github.com/Eumenideszz/images/blob/main/SK.png?raw=true) 的方式来支持 Smart-Agriculture-System- 每赞助一元钱，我们将能够喝一杯可乐。
+你也可以通过 扫二维码![demo](https://github.com/Eumenideszz/images/blob/main/SK.png?raw=true) 的方式来支持 Smart-Agriculture-System- 每赞助一元钱，我们将能够喝一杯可乐。
 
 ## Demo
 
