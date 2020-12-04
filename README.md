@@ -11,10 +11,10 @@ English | [简体中文](./README-zh.md)
 
 ```bash
 # clone the project
-git clone https://github.com/PanJiaChen/vue-admin-template.git
+git clone https://github.com/Eumenideszz/Smart-Agriculture-System.git
 
 # enter the project directory
-cd vue-admin-template
+cd Smart-Agriculture-System
 
 # install dependency
 npm install
