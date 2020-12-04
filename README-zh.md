@@ -14,10 +14,10 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/PanJiaChen/vue-admin-template.git
+git clone https://github.com/Eumenideszz/Smart-Agriculture-System.git
 
 # 进入项目目录
-cd vue-admin-template
+cd Smart-Agriculture-System
 
 # 安装依赖
 npm install
@@ -61,19 +61,9 @@ npm run lint -- --fix
 
 ## 赞助作者喝一杯可乐
 
-你也可以通过 扫二维码![demo](https://github.com/Eumenideszz/images/blob/main/SK.png?raw=true) 的方式来支持 Smart-Agriculture-System- 每赞助一元钱，我们将能够喝一杯可乐。
+![demo](https://github.com/Eumenideszz/images/blob/main/SK.png?raw=true) 
+你也可以通过 扫二维码的方式来支持 Smart-Agriculture-System， 每赞助一元钱，我们将能够喝一杯可乐。
 
-## Demo
-
-![demo](https://github.com/PanJiaChen/PanJiaChen.github.io/blob/master/images/demo.gif)
-
-## Browsers support
-
-Modern browsers and Internet Explorer 10+.
-
-| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt="IE / Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>IE / Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari |
-| --------- | --------- | --------- | --------- |
-| IE10, IE11, Edge| last 2 versions| last 2 versions| last 2 versions
 
 ## License
 
